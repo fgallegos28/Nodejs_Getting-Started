@@ -1,0 +1,19 @@
+
+
+HTML, CSS, JS,JQuery, Bootstrap, Angular Material, NodeJS, MongoDB, MS SQL, MySQL, Git, Ionic, Java, Android
+
+HTML 80%
+CSS 80%
+JS 70%
+JQuery 50%
+Bootstrap 80%
+Angular Material 80%
+NodeJS 60%
+MongoDB 80%
+SQL Server 80%
+MySQL 70%
+Git 80%
+Ionic 50%
+Java 60%
+Android 50%
+
